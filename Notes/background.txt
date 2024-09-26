@@ -1,0 +1,34 @@
+Important Background information:
+
+T-cells are a type of white blood cell that contain a TCR (T- cell Receptor)
+
+TCR consists of two major components, the alpha and beta chains. After a process of positive selection for recognition of the bodies own major histocompatability complex (MHC),
+alpha and beta combinations must also ensure that it does not react too strongly to "self antigens" (negative selection).
+thus surviving "thymocytes" (T-cell precursers) have a high MHC affinity.
+
+CD4 T-cells are MHC CLASS II restricted and a pre-programmed for helper functions (interact with Professional APCs)
+
+CD8 T-cells are MHC CLASS I restricted and pre-programmed for cytotoxic functions (killer cells).
+
+
+Professional Antigen Presenting Cells (APCs)
+
+ALL Professional antigen presenting cells present antigens on CLASS II MHC molecules.
+
+B-cells and Dendritic cells are created in the bone marrow via Lymphoid progenitor, while Myeloid progenitor (also in bone marrow) produce monocytes which are secreted into the blood stream which differentiate into macrophages.
+
+Non-Professional APCs are essentially all other cell types in the body that aren't dendritic, B-cells, or macrophages (like tissue cells, etc.) these cells present antigens using the MHC CLASS I molecules.
+
+
+EPITOPES:
+
+epitopes also known as 'antigenic determinants' is a part of an antigen that is recognized by antibodies, B cells, or T-cells. Epitopes are usually associated with non-self proteins.
+
+CDR (Complementary Determining Regions) are regions on the TCR (or for B-cells antibodies) where these molecules bind to their specific antigen. 
+
+A set of CDRs constitutes a 'paratope' which is the complimentary structure to an epitope.
+
+CDR3 specifically is the most variable region, and both the alpha and beta chain in a TCR contain CDR3 regions (TRA, and TRB).
+
+see 'TCR-seq' wikipedia
+
